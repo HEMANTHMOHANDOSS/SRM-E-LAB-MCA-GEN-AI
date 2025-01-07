@@ -8,3 +8,10 @@ fname = input()
 lname = input()
 k = "Hello "
 print(k+lname+" "+fname)
+
+//CODE 3
+a = float(input())
+b = 3.142*a*a
+print("The area of the circle with radius "+str(a) +" is: "+str(b))
+
+//CODE 4
