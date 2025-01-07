@@ -1,0 +1,10 @@
+//CODE 1
+r = float(input())
+v = 4.0/3.0*3.14*r**3
+print(v)
+
+//CODE 2
+fname = input()
+lname = input()
+k = "Hello "
+print(k+lname+" "+fname)
